@@ -8,7 +8,7 @@
 4. markdown
 
 ### 我的stars！
-![Star History Chart](https://api.star-history.com/svg?repos=newazkbbys/newazkbbys.github.io,newazkbbys/Dao3DocsPro,azkbbys/O-language&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=newazkbbys/newazkbbys.github.io,newazkbbys/Dao3DocsPro,azkbbys/O-language,newazkbbys/newazkbbys&type=Date)
 **给我一点点star呗~**
 ![azkbbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=newazkbbys&show_icons=true&theme=tokyonight)
 
