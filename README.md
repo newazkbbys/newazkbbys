@@ -6,8 +6,11 @@
 2. html
 3. kitten4
 4. markdown
- 
- ![azkbbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=newazkbbys&show_icons=true&theme=tokyonight)
+
+### 我的stars！
+![Star History Chart](https://api.star-history.com/svg?repos=newazkbbys/newazkbbys.github.io,newazkbbys/Dao3DocsPro,azkbbys/O-language&type=Date)
+**给我一点点star呗~**
+![azkbbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=newazkbbys&show_icons=true&theme=tokyonight)
 
 ### 我的猫站账号~o( =∩ω∩= )m
 [点我哦](https://shequ.codemao.cn/user/11952313)
