@@ -3,13 +3,16 @@
 
 **我擅长的语言：**
 1. python
-2. html
-3. kitten4
-4. markdown
+2. JavaScript
+3. html
+4. kitten4
+5. markdown
 
 ### 我的stars！
+
 ![Star History Chart](https://api.star-history.com/svg?repos=newazkbbys/newazkbbys.github.io,newazkbbys/Dao3DocsPro,azkbbys/O-language,newazkbbys/newazkbbys&type=Date)
 **给我一点点star呗~**
+
 ![azkbbys's GitHub stats](https://github-readme-stats.vercel.app/api?username=newazkbbys&show_icons=true&theme=tokyonight)
 
 ### 我的猫站账号~o( =∩ω∩= )m
